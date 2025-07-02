@@ -47,9 +47,15 @@ Option 1: Install all Using requirements.txt (recommended):
 pip install -r requirements.txt
 ```
 
-Option 2: Install libraries one by one:
+Option 2: Install all libraries one time :
+```bash
+pip install pyautogui keyboard Pillow opencv-python
+```
+
+Option 3: Install libraries one by one:
 ```bash
 pip install pyautogui
+pip install Pillow
 pip install keyboard
 pip install opencv-python
 ```
