@@ -28,7 +28,10 @@ This script uses the following Python libraries:
 - `pyautogui`
 - `keyboard`
 - `opencv-python`
-
+-  On some systems, pyautogui may require additional permissions or dependencies (like pillow for image processing). `pillow`
+-  ```bash
+   pip install Pillow
+   ```
 
 ### 1. Clone the repository:
 
