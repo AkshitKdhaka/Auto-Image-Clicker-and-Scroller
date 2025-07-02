@@ -35,17 +35,28 @@ This script uses the following Python libraries:
 ```bash
 git clone https://github.com/your-username/AutoImageClickerScroller.git
 cd AutoImageClickerScroller
-
+```
+### 2. Install Dependencies
+   
 ## 📥 Installation
-Using requirements.txt (recommended)
+Option 1: Install all Using requirements.txt (recommended):
+```bash
 pip install -r requirements.txt
+```
 
-install libraries one by one:
+Option 2: Install libraries one by one:
+```bash
 pip install pyautogui
 pip install keyboard
 pip install opencv-python
+```
 
+### 3. Add Your Image
+Place the image you want to detect in the same folder and update the image path in the script:
+IMAGE_PATH = r'target_image.png'
 
+### 4. Run the Script
 After installing all the library run the script:
+```bash
 python "Auto image clicker and scroller.py"
 
