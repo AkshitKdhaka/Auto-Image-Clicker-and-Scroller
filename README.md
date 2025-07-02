@@ -33,7 +33,7 @@ This script uses the following Python libraries:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/AutoImageClickerScroller.git
+git clone https://github.com/AkshitKdhaka/Auto-Image-Clicker-and-Scroller.git
 cd AutoImageClickerScroller
 ```
 ### 2. Install Dependencies
