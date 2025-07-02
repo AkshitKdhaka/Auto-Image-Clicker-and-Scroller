@@ -53,7 +53,7 @@ pip install opencv-python
 
 ### 3. Add Your Image
 Place the image you want to detect in the same folder and update the image path in the script:
-IMAGE_PATH = r'target_image.png'
+```IMAGE_PATH = r'target_image.png'```
 
 ### 4. Run the Script
 After installing all the library run the script:
